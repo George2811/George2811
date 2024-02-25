@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Full Stack Developer, and currently a Software Engineering Student. I am interested in developing new things which excite me a lot. I love exploring new technologies, and I like to stay on top of latest trends :)
+I'm a passionate Software Engineer. Currently, I am interested in developing new things which excite me a lot. I love exploring new technologies, and I like to stay on top of latest trends :)
 
 - 📫 How to reach me **jsanv.dev@gmail.com**
 <br/>
