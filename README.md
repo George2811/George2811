@@ -19,7 +19,7 @@ I'm a passionate Full Stack Developer, and currently a Software Engineering Stud
     <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
     <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" widht="42" height="42"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
-    <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0" target="_blank"> <img   src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/150px-.NET_Logo.svg.png" widht="42" height="42"/> </a>
+    <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0" target="_blank"> <img   src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" widht="42" height="42"/> </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img   src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" widht="42" height="42"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
